@@ -54,7 +54,7 @@ class Command(BaseCommand):
         tags = [
             'Python', 'JavaScript', 'Django', 'React', 'Docker',
             'APIs', 'Database', 'Security', 'Testing', 'Performance',
-            'Git', 'Frontend', 'Backend', 'Cloud', 'Mobile'
+            'Git', 'Frontend', 'Backend', 'Cloud', 'Mobile', 'DevOps'
         ]
         
         created_tags = []
